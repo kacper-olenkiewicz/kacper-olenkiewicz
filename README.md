@@ -18,16 +18,10 @@
 
 ---
 
-## 📊 Statystyki GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kacper-olenkiewicz&show_icons=true&theme=tokyonight&locale=pl" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacper-olenkiewicz&layout=compact&theme=tokyonight&locale=pl" alt="Top Languages" />
-</p>
-
+## O mnie
+- Buduję aplikacje webowe Full Stack.
+- Interesuję się uczeniem maszynowym
+- Stosuję programowanie obiektowe
 ---
 
 > ⭐ *Jeśli podoba Ci się któryś z moich projektów, zostaw gwiazdkę!*
